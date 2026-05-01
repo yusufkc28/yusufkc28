@@ -1,16 +1,51 @@
-## Hi there 👋
+ Merhaba, ben Yusuf Kerem Çınar
 
-<!--
-**yusufkc28/yusufkc28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend Developer Adayı | C# & .NET Öğreniyorum
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Hakkımda
+C# ve .NET teknolojileri ile backend geliştirme üzerine çalışıyorum.  
+API geliştirme, veritabanı işlemleri ve yazılım mimarisi öğreniyorum.
+
+---
+
+## 🧠 Teknolojiler
+- C#
+- .NET Core / ASP.NET
+- Web API (REST API)
+- SQL Server / Veritabanı Temelleri
+- OOP (Nesne Yönelimli Programlama)
+- Git & GitHub
+
+---
+
+## 📌 Projelerim
+
+### 🏆 Görev Zamanı App
+React ile geliştirilmiş görev takip ve XP sistemi uygulaması.
+
+🔗 GitHub: https://github.com/yusufkc28/GorevZamani  
+🌐 Live: https://heartfelt-sunburst-cbbb49.netlify.app/
+
+---
+
+### ⚙️ C# Projeleri
+- Sinema Bilet Otomasyonu (Console App)
+- Basit CRUD uygulamaları
+- OOP örnek projeler
+- Oto Galeri Uygulaması
+
+---
+
+## 🎯 Hedefim
+.NET ekosisteminde güçlü bir Backend Developer olmak ve kurumsal projelerde yer almak.
+
+---
+
+## 📫 İletişim
+- GitHub: https://github.com/yusufkc28  
+
+---
+
+⭐ Sürekli öğreniyorum ve projeler geliştiriyorum.
